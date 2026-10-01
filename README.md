@@ -1,5 +1,4 @@
 # BARTR: PayPal AI Hackathon ft archipelagoing. Trade what you want!
-trade what you want
 #### About the challenge
 
 PayPal already moves money for millions of people and businesses, every day, all over the world. This hackathon is us opening that platform up and asking what happens when you put AI behind the wheel. New agents, new ways to pay and get paid, tools nobody's built yet. We want to see what you make of it.
