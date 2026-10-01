@@ -1,4 +1,4 @@
-# bartr
+# BARTR: PayPal AI Hackathon ft archipelagoing. Trade what you want!
 trade what you want
 #### About the challenge
 
